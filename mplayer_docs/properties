@@ -1,0 +1,55 @@
+MPlayer 1.0pre8-3.4.2 (C) 2000-2006 MPlayer Team
+CPU:               Intel(R) Pentium(R) 4 CPU 2.80GHz (Family: 15, Model: 2, Stepping: 9)
+CPUflags:  MMX: 1 MMX2: 1 3DNow: 0 3DNow2: 0 SSE: 0 SSE2: 0
+Compiled with runtime CPU detection.
+
+
+ Name                 Type            Min        Max
+
+ osdlevel             Integer         0          3         
+ speed                Float           0          100       
+ filename             String          No         No        
+ path                 String          No         No        
+ demuxer              String          No         No        
+ stream_pos           Position        0          No        
+ stream_start         Position        0          No        
+ stream_end           Position        0          No        
+ stream_length        Position        0          No        
+ length               Double          No         No        
+ volume               Float           0          100       
+ mute                 Flag            0          1         
+ audio_delay          Float           -100       100       
+ audio_format         Integer         No         No        
+ audio_bitrate        Integer         No         No        
+ samplerate           Integer         No         No        
+ channels             Integer         No         No        
+ fullscreen           Flag            0          1         
+ ontop                Flag            0          1         
+ rootwin              Flag            0          1         
+ border               Flag            0          1         
+ framedropping        Integer         0          2         
+ gamma                Integer         -100       100       
+ brightness           Integer         -100       100       
+ contrast             Integer         -100       100       
+ saturation           Integer         -100       100       
+ hue                  Integer         -100       100       
+ panscan              Float           0          1         
+ vsync                Flag            0          1         
+ video_format         Integer         No         No        
+ video_bitrate        Integer         No         No        
+ width                Integer         No         No        
+ height               Integer         No         No        
+ fps                  Float           No         No        
+ aspect               Float           No         No        
+ sub                  Integer         -1         No        
+ sub_delay            Float           No         No        
+ sub_pos              Integer         0          100       
+ sub_alignment        Integer         0          2         
+ sub_visibility       Flag            0          1         
+ sub_forced_only      Flag            0          1         
+ tv_brightness        Integer         -100       100       
+ tv_contrast          Integer         -100       100       
+ tv_saturation        Integer         -100       100       
+ tv_hue               Integer         -100       100       
+
+Total: 45 properties

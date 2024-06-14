@@ -1,0 +1,14 @@
+# Write your default config options here!
+vf-add=screenshot
+framedrop=no
+font=c:\windows\fonts\arial.ttf
+#ss-out-dir="/mediadb/img"
+#The config file should be empty or contain the line: ss-out-dir="DIRECTORY"    
+#DIRECTORY is the desired output location of your screenshots, and should be    
+#double quoted as shown.  This is the only option available.  The screenshot    
+#directory defaults to "~" if the config file is empty or if DIRECTORY is not    
+#specified.  If this option is specified multiple times, the last one listed    
+#will be the screenshot directory.  Comments are allowed and are denoted by    
+#the "#" symbol.  Options for mplayer should be placed in the mplayer config    
+#file, usually "~/.mplayer/config".
+#forceidx "G:\MediaDB\Browse\index_file.idx"

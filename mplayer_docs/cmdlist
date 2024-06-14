@@ -1,0 +1,73 @@
+MPlayer 1.0pre8-3.4.2 (C) 2000-2006 MPlayer Team
+CPU:               Intel(R) Pentium(R) 4 CPU 2.80GHz (Family: 15, Model: 2, Stepping: 9)
+CPUflags:  MMX: 1 MMX2: 1 3DNow: 0 3DNow2: 0 SSE: 0 SSE2: 0
+Compiled with runtime CPU detection.
+
+seek                 Float [Integer]
+edl_mark            
+audio_delay          Float [Integer]
+speed_incr           Float
+speed_mult           Float
+speed_set            Float
+quit                 [Integer]
+pause               
+frame_step          
+grab_frames         
+pt_step              Integer [Integer]
+pt_up_step           Integer [Integer]
+alt_src_step         Integer
+sub_delay            Float [Integer]
+sub_step             Integer [Integer]
+osd                  [Integer]
+osd_show_text        String [Integer] [Integer]
+osd_show_property_te String [Integer] [Integer]
+volume               Float [Integer]
+use_master          
+mute                 [Integer]
+contrast             Integer [Integer]
+gamma                Integer [Integer]
+brightness           Integer [Integer]
+hue                  Integer [Integer]
+saturation           Integer [Integer]
+frame_drop           [Integer]
+sub_pos              Integer [Integer]
+sub_alignment        [Integer]
+sub_visibility       [Integer]
+sub_load             String
+sub_remove           [Integer]
+vobsub_lang          [Integer]
+sub_select           [Integer]
+sub_log             
+get_percent_pos     
+get_time_pos        
+get_time_length     
+switch_audio         [Integer]
+tv_step_channel      Integer
+tv_step_norm        
+tv_step_chanlist    
+tv_set_channel       String
+tv_last_channel     
+tv_set_freq          Float
+tv_set_norm          String
+tv_set_brightness    Integer [Integer]
+tv_set_contrast      Integer [Integer]
+tv_set_hue           Integer [Integer]
+tv_set_saturation    Integer [Integer]
+forced_subs_only     [Integer]
+switch_ratio         [Float]
+vo_fullscreen        [Integer]
+vo_ontop             [Integer]
+vo_rootwin           [Integer]
+vo_border            [Integer]
+screenshot          
+panscan              Float [Integer]
+switch_vsync         [Integer]
+loadfile             String [Integer]
+loadlist             String [Integer]
+run                  String
+change_rectangle     Integer Integer
+get_vo_fullscreen   
+get_sub_visibility  
+key_down_event       Integer
+set_property         String String
+get_property         String

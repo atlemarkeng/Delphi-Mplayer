@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clip_full xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.omnibus.tv/omnibus.g3.sig/omnibus.g3.sig.clip.xsd">
+  <unique_name>DHLN04000296</unique_name>
+  <external_reference>b2b61a55-a0e7-4958-88b9-4636e19a90c4</external_reference>
+  <title>Norge Rundt</title>
+  <notes />
+  <type>49</type>
+  <type_name>ARKIVSTOFF</type_name>
+  <in_point>
+    <format>PAL</format>
+    <time>00:01:40:00</time>
+  </in_point>
+  <duration>
+    <format>PAL</format>
+    <time>00:24:50:00</time>
+  </duration>
+  <out_point>
+    <format>PAL</format>
+    <time>00:26:30:00</time>
+  </out_point>
+  <category>2009</category>
+  <category>ARKIVSTOFF</category>
+  <category>CLIP</category>
+  <category>NARKBROWSER</category>
+  <category>NARKDIVA</category>
+  <category>narkg3app02</category>
+  <category>NARKKEYFRAMES</category>
+  <category>NARKWMVARK</category>
+  <category>WEEK40</category>
+  <location>
+    <removable_store>
+      <existing_store>BDS40 000 023 478</existing_store>
+    </removable_store>
+    <local_filename />
+    <start_of_media>
+      <format>PAL</format>
+      <time>00:01:40:00</time>
+    </start_of_media>
+    <type>Tape</type>
+    <quality>Normal</quality>
+    <audio_mode>A1/A2</audio_mode>
+    <aspect_ratio>
+      <source_format>4:3 PAL</source_format>
+      <active_region>Pass Through</active_region>
+    </aspect_ratio>
+    <pending>false</pending>
+    <AdditionalData>
+      <date_created>2009-10-09T12:39:59.307</date_created>
+      <source>
+        <location />
+        <domain />
+      </source>
+    </AdditionalData>
+  </location>
+  <location>
+    <fixed_store>
+      <media_store>NARKKEYFRAMES</media_store>
+    </fixed_store>
+    <local_filename>DHLN04000296</local_filename>
+    <start_of_media>
+      <format>PAL</format>
+      <time>00:00:02:00</time>
+    </start_of_media>
+    <type>Disk Server</type>
+    <quality>Normal</quality>
+    <audio_mode>A1/A2</audio_mode>
+    <aspect_ratio>
+      <source_format>4:3 PAL</source_format>
+      <active_region>Pass Through</active_region>
+    </aspect_ratio>
+    <pending>false</pending>
+    <AdditionalData>
+      <date_created>2009-10-09T12:38:55</date_created>
+      <source>
+        <location>OPROKEYFRAMES</location>
+        <domain>OPRO</domain>
+      </source>
+    </AdditionalData>
+  </location>
+  <location>
+    <fixed_store>
+      <media_store>NARKBROWSER</media_store>
+    </fixed_store>
+    <local_filename>160.67.181.80/f\~Omn~A~T~02~53</local_filename>
+    <start_of_media>
+      <format>PAL</format>
+      <time>00:00:02:00</time>
+    </start_of_media>
+    <type>Browse</type>
+    <quality>Normal</quality>
+    <audio_mode>A1/A2</audio_mode>
+    <aspect_ratio>
+      <source_format>4:3 PAL</source_format>
+      <active_region>Pass Through</active_region>
+    </aspect_ratio>
+    <pending>false</pending>
+    <AdditionalData>
+      <date_created>2009-10-09T12:40:33</date_created>
+      <source>
+        <location>OPROBROWSER</location>
+        <domain>OPRO</domain>
+      </source>
+    </AdditionalData>
+  </location>
+  <location>
+    <fixed_store>
+      <media_store>NARKDIVA</media_store>
+    </fixed_store>
+    <local_filename>DHLN04000296,0001B320</local_filename>
+    <start_of_media>
+      <format>PAL</format>
+      <time>00:00:02:00</time>
+    </start_of_media>
+    <type>Vault</type>
+    <quality>Normal</quality>
+    <audio_mode>A1/A2</audio_mode>
+    <aspect_ratio>
+      <source_format>4:3 PAL</source_format>
+      <active_region>Pass Through</active_region>
+    </aspect_ratio>
+    <pending>false</pending>
+    <AdditionalData>
+      <date_created>2009-10-09T12:54:16</date_created>
+      <source>
+        <location>OPROMGRID</location>
+        <domain>OPRO</domain>
+      </source>
+    </AdditionalData>
+  </location>
+  <location>
+    <fixed_store>
+      <media_store>NARKWMVARK</media_store>
+    </fixed_store>
+    <local_filename>DHLN04000296,0001B320</local_filename>
+    <start_of_media>
+      <format>PAL</format>
+      <time>00:00:02:00</time>
+    </start_of_media>
+    <type>Vault</type>
+    <quality>Normal</quality>
+    <audio_mode>A1/A2</audio_mode>
+    <aspect_ratio>
+      <source_format>4:3 PAL</source_format>
+      <active_region>Pass Through</active_region>
+    </aspect_ratio>
+    <pending>false</pending>
+    <AdditionalData>
+      <date_created>2009-10-12T03:31:37</date_created>
+      <source>
+        <location>NARKBROWSER</location>
+        <domain>NARK</domain>
+      </source>
+    </AdditionalData>
+  </location>
+  <workflow_status>0</workflow_status>
+  <scheduling>
+    <cache_mode>Always</cache_mode>
+    <suppress_logos>false</suppress_logos>
+    <loop>false</loop>
+    <after_use>
+      <archive>false</archive>
+      <delete>false</delete>
+    </after_use>
+    <not_before>
+      <use>false</use>
+      <date>0001-01-01T00:00:00</date>
+    </not_before>
+    <not_after>
+      <use>false</use>
+      <date>0001-01-01T00:00:00</date>
+    </not_after>
+  </scheduling>
+  <dates>
+    <created>2009-10-09T12:35:29+02:00</created>
+    <modified>2011-11-21T18:15:06+01:00</modified>
+  </dates>
+  <metadata>
+    <id>1403492</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Beskrivelse>
+        </Beskrivelse>
+        <Redaksjon>SIFT</Redaksjon>
+      </Hvem-Hva-Hvor>
+    </data>
+  </metadata>
+  <metadata>
+    <id>3933406</id>
+    <type>Kreditering</type>
+    <schema_name>Kreditering</schema_name>
+    <data>
+      <Kreditering>
+        <Opphavsmann />
+        <Produksjonsteam />
+        <Rettighetseier>NRK </Rettighetseier>
+      </Kreditering>
+    </data>
+  </metadata>
+  <metadata>
+    <id>3933407</id>
+    <type>Produksjonsinfo</type>
+    <schema_name>Produksjonsinfo</schema_name>
+    <data>
+      <Produksjonsinfo>
+        <Prodkode>DHLN04000296</Prodkode>
+        <Sendt>1996-01-12</Sendt>
+        <Proddato>1996</Proddato>
+      </Produksjonsinfo>
+    </data>
+  </metadata>
+  <metadata>
+    <id>1403494</id>
+    <type>Rettigheter</type>
+    <schema_name>Rettigheter</schema_name>
+    <data>
+      <Rettigheter>
+        <Rettighetseier>Babystuper i vignetten må aldri gjenbrukes, iflg DHO 20050601, May</Rettighetseier>
+        <Rettighnotat>/ PB</Rettighnotat>
+      </Rettigheter>
+    </data>
+  </metadata>
+  <metadata>
+    <id>981252</id>
+    <type>Teknisk</type>
+    <schema_name>Teknisk</schema_name>
+    <data>
+      <Teknisk>
+        <Lydspor1>F-miks</Lydspor1>
+        <Lydspor2>F-miks</Lydspor2>
+        <Lydspor3>F-miks</Lydspor3>
+        <Lydspor4>F-miks</Lydspor4>
+        <Farge />
+        <KildeformatVideo>4x3 PAL</KildeformatVideo>
+        <Bandhistorikk>Bånd-nr. DHLN: BM30 113666</Bandhistorikk>
+        <Notat>MediaDB 628622</Notat>
+      </Teknisk>
+    </data>
+  </metadata>
+  <metadata>
+    <id>1403493</id>
+    <type>Titler</type>
+    <schema_name>Titler</schema_name>
+    <data>
+      <Titler>
+        <Arkivtittel>Norge Rundt</Arkivtittel>
+        <Serietittel>Norge Rundt</Serietittel>
+      </Titler>
+    </data>
+  </metadata>
+  <metadata>
+    <id>981254</id>
+    <type>Keep Local</type>
+    <schema_name>Keep Local</schema_name>
+    <data>
+      <_KeepLocal>
+        <_ArchiveClip>true</_ArchiveClip>
+      </_KeepLocal>
+    </data>
+  </metadata>
+  <metadata>
+    <id>981255</id>
+    <type>Archive</type>
+    <schema_name>Archive</schema_name>
+    <data>
+      <Archive>
+        <When>2009-10-09T13:26:24.0000000-00:00</When>
+        <Source>
+        </Source>
+      </Archive>
+    </data>
+  </metadata>
+  <metadata>
+    <id>1403495</id>
+    <type>SIFT</type>
+    <schema_name>SIFT</schema_name>
+    <data>
+      <SIFT>
+        <Fraprogram>Norge Rundt</Fraprogram>
+        <Fraarkivnr>A 14993</Fraarkivnr>
+        <Fratapenr>D40 23478</Fratapenr>
+        <Regnr>
+        </Regnr>
+      </SIFT>
+    </data>
+  </metadata>
+  <metadata>
+    <id>3933408</id>
+    <type>Skole</type>
+    <schema_name>Skole</schema_name>
+    <data>
+      <Skole>
+        <Fag>
+        </Fag>
+        <Fagomrade>
+        </Fagomrade>
+        <Emne>
+        </Emne>
+        <Trinn>
+        </Trinn>
+        <Form>
+        </Form>
+        <Kategori>SIFT</Kategori>
+        <Spraak>
+        </Spraak>
+        <Nokkelord />
+        <Status>PB</Status>
+        <MediaID>628622</MediaID>
+        <StreamID>
+        </StreamID>
+        <PoloPolyID>
+        </PoloPolyID>
+        <MediaFilnavn>DHLN04000296</MediaFilnavn>
+      </Skole>
+    </data>
+  </metadata>
+  <metadata>
+    <id>981253</id>
+    <type>Voktere - Behandles</type>
+    <schema_name>Voktere lokalt domene - Behandles</schema_name>
+    <data>
+      <VoktereLokaltDomeneBehandles>
+        <LagresNARK>2009-10-09</LagresNARK>
+        <MetaNARK>0001-01-01</MetaNARK>
+        <AnnenBeh>0001-01-01</AnnenBeh>
+        <ByttesNARK>00010101</ByttesNARK>
+      </VoktereLokaltDomeneBehandles>
+    </data>
+  </metadata>
+  <event>
+    <id>3933409</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Overskrift>Iskutter i Drammensfjorden</Overskrift>
+        <Medvirkende>Reporter/programleder:
+Styrk Fjørtoft Trondsen</Medvirkende>
+        <Stedibildet>Bergen</Stedibildet>
+        <Kommune>Bergen</Kommune>
+        <Fylke>Hordaland</Fylke>
+        <Tags>vinter; is; kulde</Tags>
+        <Rubrikk>Iskutteren " hor III" holder Drammensfjorden fri
+for is og hjelper skip inn til havnen.</Rubrikk>
+        <Beskrivelse>(Programvert: Styrk Fjærtoft Trondsen).
+Buskerud, Drammensfjorden.  Iskutteren "Thor III" holder Drammensfjorden fri
+for is og hjelper skip inn til havnen.
+To shots nært iskutteren kutter is.  Strekk baugen.  Avstand isbryteren foran
+tankskip.  Anders SKATVEDT (mv) på broa, intv. om arbeidet.  Kjørescene
+isbryteren.
+Shot "Thor III" seiler gjennom isflak.  Intv. SKATVEDT forts. off og on.
+Kjørescener nært isflak, shots SKATVEDT.  Iskutteren geleider lastebåt mot kai.
+Intv. SKATVEDT på vei mot lasteskip for å eskortere, forhandler med kapteinen
+som ikke tar imot assistanse (seiler til isfri havn).  Iskutteren i
+havnebassenget, Drammen (skumring).
+Musikk off: "Sunlight" med Pat Metheny, 1'.</Beskrivelse>
+        <Eksternkoder>MID:244836 SIFT:1996/01051 Seq:46</Eksternkoder>
+      </Hvem-Hva-Hvor>
+    </data>
+    <in_point>
+      <format>PAL</format>
+      <time>00:02:58:03</time>
+    </in_point>
+    <duration>
+      <format>PAL</format>
+      <time>00:04:30:22</time>
+    </duration>
+  </event>
+  <event>
+    <id>3933413</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Overskrift>Saltvannsakvarium i Bergen</Overskrift>
+        <Medvirkende>Medvirkende:
+
+
+
+Familien WOLDSETH;</Medvirkende>
+        <Stedibildet>Bergen</Stedibildet>
+        <Kommune>Bergen</Kommune>
+        <Fylke>Hordaland</Fylke>
+        <Beskrivelse>Hordaland. Øyjorden i Bergen.  Møte med en som samler på akvarier.
+
+
+
+Familien WOLDSETH blir spurt om hvilket kjæledyr familien burde ha, far Karl
+
+
+
+WOLDSETH (mv) svarer fisk.  Pan fra familien i sofakroken til stort akvarium
+
+
+
+innebygd i vegg.  Mange fine shots fisker o.a. dyr i saltvannsakvariet.  Intv.
+
+
+
+WOLDSETH ved akvariet på 2000 liter.  En del fotos av akvariet og byggingen av
+
+
+
+det.  WOLDSETH forteller om en oversvømmelse.  WOLDSETH mater fisk med
+
+
+
+salatblad på overflaten.
+
+
+
+Musikk off: "Overflaten" med Jøkleba, 20".
+
+
+
+"Historien om de tre små fisk" med Ingebrigt Davik, 1'.</Beskrivelse>
+        <Eksternkoder>MID:244841 SIFT:1996/01056 Seq:47</Eksternkoder>
+      </Hvem-Hva-Hvor>
+    </data>
+    <in_point>
+      <format>PAL</format>
+      <time>00:07:27:20</time>
+    </in_point>
+    <duration>
+      <format>PAL</format>
+      <time>00:03:33:19</time>
+    </duration>
+  </event>
+  <event>
+    <id>3933410</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Overskrift>Dukkemaker i Sandnes</Overskrift>
+        <Medvirkende>Medvirkende:
+
+Anne LUDVIGSEN;
+
+Anne KONGSTADLI;</Medvirkende>
+        <Stedibildet>Sandnes</Stedibildet>
+        <Kommune>Sandnes</Kommune>
+        <Fylke>Rogaland</Fylke>
+        <Beskrivelse>Rogaland, Sandnes.  Anne Ludvigsen har laget dukker i 10 år.
+
+Shots fra dukketeaterforestilling.  Intv. Anne LUDVIGSEN (mv) om hvordan
+
+forhold barn har til dukker.  Anne KONGSTADLI? (mv) og LUDVIGSEN holder
+
+dukketeaterforestilling.  Intv. LUDVIGSEN forts., hun viser hvordan ansiktet
+
+formes f.eks. ved plassering av øynene.  LUDVIGSEN instruerer elever på
+
+bibelskole.  Flere utdrag LUDVIGSEN med dukke på scene. LUDVIGSEN om buktaling,
+
+tror ikke hun får det til...</Beskrivelse>
+        <Eksternkoder>MID:244842 SIFT:1996/01057 Seq:48</Eksternkoder>
+      </Hvem-Hva-Hvor>
+    </data>
+    <in_point>
+      <format>PAL</format>
+      <time>00:11:01:13</time>
+    </in_point>
+    <duration>
+      <format>PAL</format>
+      <time>00:04:18:08</time>
+    </duration>
+  </event>
+  <event>
+    <id>3933411</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Overskrift>Bolinder båtmotor på Lyngseidet</Overskrift>
+        <Medvirkende>Medvirkende:
+
+Sverre ROSS;</Medvirkende>
+        <Stedibildet>Jøvik</Stedibildet>
+        <Fylke>Troms</Fylke>
+        <Beskrivelse>Troms, Jøvik på Lyngseidet.  Restaurering av gammel båtmotor.
+
+Nært, tilt opp glødehodemotor.  Nært Sverre ROSS (mv).  ROSS i arbeid med
+
+restaureringen, forklarer.  Nært 5 hesters Gideon.  ROSS forteller on om
+
+motoren.  Nært apparat for trykksmøring, forklaring.  Mange menn venter rundt
+
+den restaurerte motoren - vil den starte?.  Motoren fyres opp, shots nært
+
+motoren, den starter. Intv. ROSS, er imponert over motoren.  Mange shots nært
+
+motoren går.  Avstand Jøvik.
+
+Musikk off: "Toccata and fuge i D-minor" (Bach), med Vanessa Mae.</Beskrivelse>
+        <Eksternkoder>MID:244843 SIFT:1996/01058 Seq:49</Eksternkoder>
+      </Hvem-Hva-Hvor>
+    </data>
+    <in_point>
+      <format>PAL</format>
+      <time>00:15:48:20</time>
+    </in_point>
+    <duration>
+      <format>PAL</format>
+      <time>00:04:26:04</time>
+    </duration>
+  </event>
+  <event>
+    <id>3933412</id>
+    <type>Hvem-Hva-Hvor</type>
+    <schema_name>Hvem-Hva-Hvor</schema_name>
+    <data>
+      <Hvem-Hva-Hvor>
+        <Overskrift>Ølbrygging i Stjørdal</Overskrift>
+        <Medvirkende>Reporter/programleder:
+Styrk Fjærtoft TRONDSEN;
+
+Medvirkende:
+Bjarne STENSETH;
+
+Helge HOVDEN;</Medvirkende>
+        <Stedibildet>Stjørdal</Stedibildet>
+        <Kommune>Stjørdal</Kommune>
+        <Fylke>Nord-Trøndelag</Fylke>
+        <Tags>bryggeri</Tags>
+        <Beskrivelse>Bjarne STENSETH (mv) går inn i kjeller.  Han legger ved og einer nederst i
+tønne.  Prosessen forts. mens han forklarer off og on.  Husbonden Helge HOVDEN
+(mv) legger selv gjæret i karet, i tillegg legges et trekors nedi, de to karene
+"kauker" ned i karet.  Prøvesmaking av ølet.
+Programvert Styrk Fjærtoft TRONDSEN orienterer om innsendte kommunevåpen (31 av
+435 kommuner har sendt så langt), pan noen av våpnene som bordflagg.  Han viser
+frem bordflagg og utstoppet tiur fra Malvik.  1'18".
++
+Nord-Trøndelag, Stjørdal.  Brygging av øl på korn på gammeldags måte.  Vi
+følger prosessen.</Beskrivelse>
+        <Eksternkoder>MID:244844 SIFT:1996/01059 Seq:50</Eksternkoder>
+      </Hvem-Hva-Hvor>
+    </data>
+    <in_point>
+      <format>PAL</format>
+      <time>00:21:15:11</time>
+    </in_point>
+    <duration>
+      <format>PAL</format>
+      <time>00:05:02:08</time>
+    </duration>
+  </event>
+  <smartclient_url>http://narkweb01:82/smartclient2/#browse=TkFSS18xXzEyMjY3Ng~~</smartclient_url>
+  <is_project>false</is_project>
+</clip_full>
